@@ -8,4 +8,4 @@ Execute the code
 
 ### Data Files
 
-TSX Listing 2019.xlsx is a stock ticker data file for the in the analysis
+TSX Listing 2019.csv is a stock ticker data file for the in the analysis
